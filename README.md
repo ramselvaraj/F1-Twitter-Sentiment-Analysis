@@ -1,4 +1,4 @@
-# Sentiment Analysis on F1 Twitter's Reaction to Max Verstappen Winning the 2021 Driver's Championship in the Controversial Abu Dhabi 2021 Grand Prix
+# Sentiment Analysis on F1 Twitter's Reaction to controversial 2021 Driver's Championship won by Max Verstappen
 
 This project involved scraping and cleaning tweets related to Max Verstappen's win at the Abu Dhabi 2021 Grand Prix and 2021 Driver's Title, and performing sentiment analysis on the resulting dataset. 
 
